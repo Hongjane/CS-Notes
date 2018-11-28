@@ -7,7 +7,7 @@
 
 ## git架构示意图
 
-<div align="left" width="900px"> <img src="./pics/git_structures.png"> </div>
+<div align="left"> <img src="./pics/git_structures.png" width="900"> </div>
 
 ## git命令一览
 
